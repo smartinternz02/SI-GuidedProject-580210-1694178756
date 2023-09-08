@@ -1,2 +1,3 @@
 "# SI-GuidedProject-580210-1694178756" 
-LOG IN APP
+main branch has -- ASSIGNMENT 1
+dicerollerapp branch has -- ASSIGNMENT 2
